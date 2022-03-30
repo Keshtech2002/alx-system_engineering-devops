@@ -9,3 +9,4 @@ script to create a directory named my_first_directory in the /tmp/ directory
 8-firstdelete: delete the file betty from tmp/my_first_directory
 9-firstdirdeletion: delete my_first_dir...
 10-back: change working directory to previous
+11-lists: ls files in /boot, ., ..
