@@ -11,3 +11,4 @@ script to create a directory named my_first_directory in the /tmp/ directory
 10-back: change working directory to previous
 11-lists: ls files in /boot, ., ..
 12-file_type: file type print
+13-symbolic_link: creates a symbolic link for /bin/ls
