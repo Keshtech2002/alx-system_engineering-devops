@@ -14,3 +14,4 @@ script to create a directory named my_first_directory in the /tmp/ directory
 13-symbolic_link: creates a symbolic link for /bin/ls
 14-copy_html: copy all html to the parent with update if present
 100-lets_move: move all file begining with uppercase to /tmp/u
+101-clean_emacs: deletes all files ending with ~
