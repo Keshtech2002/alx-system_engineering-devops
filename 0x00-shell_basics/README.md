@@ -17,3 +17,4 @@ script to create a directory named my_first_directory in the /tmp/ directory
 101-clean_emacs: deletes all files ending with ~
 102-tree: create welcome/to/school
 103-commas: list files with commas
+school.mgc : a magic file that detects string SCHOOL at offset 0
