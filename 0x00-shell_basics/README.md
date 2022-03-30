@@ -16,3 +16,4 @@ script to create a directory named my_first_directory in the /tmp/ directory
 100-lets_move: move all file begining with uppercase to /tmp/u
 101-clean_emacs: deletes all files ending with ~
 102-tree: create welcome/to/school
+103-commas: list files with commas
