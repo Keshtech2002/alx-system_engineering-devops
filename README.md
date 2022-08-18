@@ -9,3 +9,8 @@ Shellcheck is a tool that will help you write proper Bash scripts. It will make 
 ```
 $ sudo apt install shellcheck
 ```
+
+##### Using the shellcheck
+```
+$ shellcheck scriptname
+```
