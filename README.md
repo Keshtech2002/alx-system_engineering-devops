@@ -6,3 +6,6 @@ Shellcheck is a tool that will help you write proper Bash scripts. It will make 
 
 ##### Installing Shellcheck
 [Install Shellcheck](https://github.com/koalaman/shellcheck#installing)
+```
+$ sudo apt install shellcheck
+```
