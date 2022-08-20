@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script that kills an infinite loop 7-highlander
+# without using kill or killall
+pkill -f 7-highlander
