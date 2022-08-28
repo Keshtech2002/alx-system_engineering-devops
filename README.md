@@ -14,3 +14,10 @@ $ sudo apt install shellcheck
 ```
 $ shellcheck scriptname
 ```
+
+##### To install the Ruby Interpreter
+```
+$ sudo apt get update
+$ sudo apt install ruby-full
+$ ruby --version
+```
